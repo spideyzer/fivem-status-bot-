@@ -42,7 +42,7 @@ Example:
 js
 Copy
 Edit
-const SERVER_IP = "51.79.254.142"; // Replace with your server IP
+const SERVER_IP = "51.48.25.157"; // Replace with your server IP
 const SERVER_PORT = "30120"; // Replace with your server port
 Add the Command to Your Bot:
 Make sure your bot loads the serverstatus.js file in the bot's main index.js or the appropriate handler for commands.
